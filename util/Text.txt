@@ -1,0 +1,149 @@
+Avengers: Endgame	05/20	09:00	
+Avengers: Endgame	05/20	11:00
+Avengers: Endgame	05/20	14:30
+Avengers: Endgame	05/20	17:00
+Avengers: Endgame	05/20	20:30
+Avengers: Endgame	05/21	09:00
+Avengers: Endgame	05/21	11:00
+Avengers: Endgame	05/21	14:30
+Avengers: Endgame	05/21	17:00
+Avengers: Endgame	05/21	20:30
+Avengers: Endgame	05/22	09:00
+Avengers: Endgame	05/22	11:00
+Avengers: Endgame	05/22	14:30
+Avengers: Endgame	05/22	17:00
+Avengers: Endgame	05/22	20:30
+John Wick: Chapter 3	05/22	09:00
+John Wick: Chapter 3	05/22	10:30
+John Wick: Chapter 3	05/22	13:30
+John Wick: Chapter 3	05/22	16:00
+John Wick: Chapter 3	05/22	19:30
+John Wick: Chapter 3	05/23	09:00
+John Wick: Chapter 3	05/23	10:30
+John Wick: Chapter 3	05/23	13:30
+John Wick: Chapter 3	05/23	16:00
+John Wick: Chapter 3	05/23	19:30
+John Wick: Chapter 3	05/24	09:00
+John Wick: Chapter 3	05/24	10:30
+John Wick: Chapter 3	05/24	13:30
+John Wick: Chapter 3	05/24	16:00
+John Wick: Chapter 3	05/24	19:30
+Aladdin	05/23	10:15
+Aladdin	05/23	12:30
+Aladdin	05/23	15:00
+Aladdin	05/23	17:35
+Aladdin	05/23	19:15
+Aladdin	05/24	10:15
+Aladdin	05/24	12:30
+Aladdin	05/24	15:00
+Aladdin	05/24	17:35
+Aladdin	05/24	19:15
+Aladdin	05/25	10:15
+Aladdin	05/25	12:30
+Aladdin	05/25	15:00
+Aladdin	05/25	17:35
+Aladdin	05/25	19:15
+The Sun is Also a Star	05/23	09:00
+The Sun is Also a Star	05/23	11:30
+The Sun is Also a Star	05/23	14:00
+The Sun is Also a Star	05/23	16:30
+The Sun is Also a Star	05/23	19:00
+The Sun is Also a Star	05/24	09:00
+The Sun is Also a Star	05/24	11:30
+The Sun is Also a Star	05/24	14:00
+The Sun is Also a Star	05/24	16:30
+The Sun is Also a Star	05/24	19:00
+The Sun is Also a Star	05/25	09:00
+The Sun is Also a Star	05/25	11:30
+The Sun is Also a Star	05/25	14:00
+The Sun is Also a Star	05/25	16:30
+The Sun is Also a Star	05/25	19:00
+Break Through	05/24	09:30
+Break Through	05/24	12:00
+Break Through	05/24	15:30
+Break Through	05/24	17:00
+Break Through	05/24	19:30
+Break Through	05/25	09:30
+Break Through	05/25	12:00
+Break Through	05/25	15:30
+Break Through	05/25	17:00
+Break Through	05/25	19:30
+Break Through	05/26	09:30
+Break Through	05/26	12:00
+Break Through	05/26	15:30
+Break Through	05/26	17:00
+Break Through	05/26	19:30
+Captain Marvel	05/23	09:10
+Captain Marvel	05/23	12:10
+Captain Marvel	05/23	14:30
+Captain Marvel	05/23	17:10
+Captain Marvel	05/23	19:00
+Captain Marvel	05/24	09:10
+Captain Marvel	05/24	12:10
+Captain Marvel	05/24	14:30
+Captain Marvel	05/24	17:10
+Captain Marvel	05/24	19:00
+Captain Marvel	05/25	09:10
+Captain Marvel	05/25	12:10
+Captain Marvel	05/25	14:30
+Captain Marvel	05/25	17:10
+Captain Marvel	05/25	19:00
+Us	05/23	09:00
+Us	05/23	11:30
+Us	05/23	14:00
+Us	05/23	16:30
+Us	05/23	19:00
+Us	05/24	09:00
+Us	05/24	11:30
+Us	05/24	14:00
+Us	05/24	16:30
+Us	05/24	19:00
+Us	05/25	09:00
+Us	05/25	11:30
+Us	05/25	14:00
+Us	05/25	16:30
+Us	05/25	19:00
+Shazam!	05/24	09:30
+Shazam!	05/24	12:00
+Shazam!	05/24	15:30
+Shazam!	05/24	17:00
+Shazam!	05/24	19:30
+Shazam!	05/25	09:30
+Shazam!	05/25	12:00
+Shazam!	05/25	15:30
+Shazam!	05/25	17:00
+Shazam!	05/25	19:30
+Shazam!	05/26	09:30
+Shazam!	05/26	12:00
+Shazam!	05/26	15:30
+Shazam!	05/26	17:00
+Shazam!	05/26	19:30
+Booksmart	05/23	10:15
+Booksmart	05/23	12:30
+Booksmart	05/23	15:00
+Booksmart	05/23	17:35
+Booksmart	05/23	19:15
+Booksmart	05/24	10:15
+Booksmart	05/24	12:30
+Booksmart	05/24	15:00
+Booksmart	05/24	17:35
+Booksmart	05/24	19:15
+Booksmart	05/25	10:15
+Booksmart	05/25	12:30
+Booksmart	05/25	15:00
+Booksmart	05/25	17:35
+A Dog's Journey	05/22	09:00
+A Dog's Journey	05/22	10:30
+A Dog's Journey	05/22	13:30
+A Dog's Journey	05/22	16:00
+A Dog's Journey	05/22	19:30
+A Dog's Journey	05/23	09:00
+A Dog's Journey	05/23	10:30
+A Dog's Journey	05/23	13:30
+A Dog's Journey	05/23	16:00
+A Dog's Journey	05/23	19:30
+A Dog's Journey	05/24	09:00
+A Dog's Journey	05/24	10:30
+A Dog's Journey	05/24	13:30
+A Dog's Journey	05/24	16:00
+A Dog's Journey	05/24	19:30
